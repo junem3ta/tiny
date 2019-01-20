@@ -8,13 +8,13 @@ A simple npm package
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @junem3ta/tiny
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@junem3ta/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
